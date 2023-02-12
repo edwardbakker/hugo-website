@@ -1,11 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://black-mushroom-0cae5de03.2.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'PWS Emily'
 theme = 'ananke' 
 
 [params]
   text_color = ""
-  author = ""
+  author = "Emily Bakker"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
