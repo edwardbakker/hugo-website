@@ -1,7 +1,8 @@
 baseURL = 'https://black-mushroom-0cae5de03.2.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'PWS Emily'
+title = 'PWS Emily, Dylan en Joey'
 theme = 'ananke' 
+author = "Emily Bakker"
 
 [params]
   text_color = ""

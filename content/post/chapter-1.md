@@ -1,81 +1,42 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall is een beetje bullshit natuurlijk"
+description: ""
 featured_image: "images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
-title: "Deelvraag 1: The Grand Hall"
+title: "In hoeverre is de aanval van Napoleon op Rusland te vergelijken met de veroveringspoging van Hitler op Rusland?"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+Zowel Napoleon als Hitler heeft geprobeerd Rusland te veroveren en beiden zijn daarin gefaald. De twee veroveraars waren tot het moment dat zij Rusland aanvielen niet te stoppen, maar toch heeft Rusland beide gestopt. Hoe hebben Napoleon en Hitler dat geprobeerd en hoe heeft Rusland ze tegengehouden en op welke manier? 
+Napoleon viel in 1812 Rusland aan, nadat tsaar Alexander in 1810 het bondgenootschap met Frankrijk verbrak. Rusland liep anders economisch te veel schade op, aangezien hun belangrijkste handelspartners de Engelse waren. Napoleon had in 1806 het continentale stelsel opgesteld waarin stond dat Europese landen geen handel meer mochten drijven met Groot-Brittannië. Het idee hierachter was dat Groot-Brittannië, hierdoor geen gevaarlijke militaire vijand zou worden. Om dit te handhaven nam Napoleon 35.000 douaneambtenaren aan die moesten zorgen dat alle landen zich hieraan hielden. De arrogante houding van deze ambtenaren zorgde er door de jaren heen voor dat de populariteit van Napoleon drastisch afnam in de door hem veroverde landen.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+![](/images/Afbeelding1.png)
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+###### **_In het donkerblauw Frankrijk (na de verovering van de Bataafse Republiek), in het middenblauw de satellietstaten en in het lichtblauw de resterende landen die zich aan het continentale stelsel hielden._**
+ 
+Het continentale stelsel hield stand van 1806 tot 1814. Toen Napoleon in 1812 Rusland aanviel had hij in eerste instantie weinig tegenslagen met dank aan de snelle oprukking van de Grande armée (het Franse leger). Het Russische leger was hierdoor genoodzaakt zich ver terug te trekken en maakte gebruik van een oude techniek: alles wat van militaire of economische waarde was voor de franse werd compleet platgebrand. Naast deze vernietiging werd ook al het water vergiftigd. Veel soldaten liepen hierdoor allerlei besmettelijke ziektes op. De voorraden van Napoleon waren veel minder dan verwacht en Napoleon werd genoodzaakt steeds verder Rusland in te trekken. Hij was vastberaden dat de Russen zich zouden overgeven, ondanks de zware materiële verliezen die hij onderweg had opgelopen en trok door naar Moskou. Aangekomen bij Borodino, het voorstadje van Moskou, ontstond er een grote veldslag die net aan gewonnen werd door de Franse. De Russische generaal Koetoezov was genoodzaakt de stad te evacueren.  14 september 1812 trok het Franse leger Moskou binnen. Het plezier van de behaalde winst ging snel in vlammen op, nadat de stad door de Russen in brand werd gestoken. Napoleon was genoodzaakt de stad te verlaten door het tekort aan voorraden en trok zich terug. Dit bleek een moeilijke opgave door de aanbrekende kou, een hevige uitbraak van de tyfus, de afwezigheid van elke vorm van hulp van de platgebrande Russische steden en de constante aanvallen van de kozakken (Russisch leger). Van de 70.000 Franse manschappen, waarmee Napoleon was begonnen, zijn er 18.000-22.000 teruggekeerd. 18 december 1812 waren ze weer teruggekomen en was de ramptocht ten einde gekomen.
+(Napoleons terugtrekking uit Moskou van Adolf Northern) 
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+Net als Napoleon had Adolf Hitler in eerste instantie een vredesverdrag met Rusland. Dit was voor beide partijen voordelig:
+Voor de Sovjet-Unie was dit voordelig aangezien zij niet de militaire noch de economische middelen hadden om zich een grootschalige oorlog te kunnen veroorloven. Hitler had een meer tactische reden om geen oorlog aan te gaan met de Sovjet-Unie. In de Eerste Wereldoorlog had het toenmalige Duitse rijk een twee fronten oorlog moeten voeren, waardoor ze hun manschappen en materieel hadden moeten opdelen, dit was mede de oorzaak dat de Eerste Wereldoorlog was verloren. Om te zorgen dat dit niet zou gebeuren, sloten ze dus een niet-aanvalsverdrag. Hitler zou zich later wel zorgen maken over de Sovjet-Unie. Het stond wel vast dat Oost-Europa veroverd moest worden en daar maakte Hitler geen geheim van. Het fascisme was de ideologische tegenpool van het communisme, zowel in theorie als in de praktijk en moest het communisme dus plaatsmaken voor Hitlers ‘’lebensraum’’ droom. Deze droom van Hitler was om meer leefruimte/ lebensraum te maken voor het Duitse ras. Om dit te verwezenlijken werd Generalplan Ost bedacht: Midden- en Oost-Europa moeten germaniseren en de inheemse bevolking moet op die plekken weggedreven worden. Generalplan Ost bestond uit een klein en een groot plan. Het kleine plan bestond uit acties die tijdens de oorlog zouden moeten worden uitgevoerd. Deze hielden zich bezig met de uitroeiing van de Poolse elite. Het grote plan beschreef de naoorlogse plannen in een 30-jaren plan: Er zouden 45 miljoen inheemse burgers worden gedeporteerd uit de door Hitler uitgekozen gebieden naar Siberië en daarvoor kwamen 8 tot 10 miljoen Germaanse boeren in de plaats. 14 inheemse burgers zouden achterblijven om te dienen als slaven voor de boeren.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+| Etnische groep 	|  	| Percentage te verwijderen mensen 	|
+|----------------	|---|------	|
+| Polen           	|  	| 80-85%    	|
+| Wit-Russen           	|  	| 75%     	|
+| Oekraïners          	|  	| 65%     	|
+| Esten          	|  	| 50%     	|
+| Letten          	|  	| 85%     	|
+| Litouwers           	|  	| 85%     	|
+| Tsjechen           	|  	| 50%     	|
+
+###### **_Deze tabel laat zien welke percentages van de inheemse bevolking moest worden gedeporteerd/uitgeroeid per bevolkingsgroep._**
+
+ Hiernaast was Hitlers oog gevallen op de olie en andere essentiële grondstoffen die de Sovjet-Unie in bezit had. 22 juni 1941 viel Hitler de Sovjet-Unie aan "Operatie Barbarossa”. Door de blitzkrieg tactiek (zo snel mogelijk mobiliseren en zo snel mogelijk zo veel mogelijk gebied veroveren) kende Hitler een zeer succesvolle openingsfase. Binnen drie weken hadden ze al 600 kilometer van het Sovjet-Unie gebied veroverd.  Zo goed als heel Wit-Rusland was veroverd, net als grote delen van Oekraïne en de Baltische staten. Hierna ontstonden de eerste problemen. Ten eerste had de Duitse legerleiding in zijn berekeningen gedacht dat de Sovjet-Unie veel trager zou mobiliseren. Ook bleek het wegennet van Rusland van veel mindere kwaliteit te zijn waardoor de Duitse "pantser spitzen" niet snel genoeg van nieuwe voorraden konden worden voorzien. Stalin gebruikte ter verdediging precies dezelfde tactiek als die zijn voorganger tsaar Alexander tegen Napoleon had gebruikt: Er mocht geen enkel bruikbaar materiaal in Duitse handen vallen, met name geen Russisch eten en geen locomotieven en ander spoormaterieel. Rusland had namelijk een ander formaat spoorrails en dus konden de Duitsers hun eigen treinen niet gebruiken. Dit laatste bleek vrij fataal toen begin oktober het weer drastisch omsloeg. Wegen veranderde in modderbaden en hierdoor viel de aanvoer van munitie, voedsel en ander noodzakelijk materieel stil. Toen rond november de wegen weer redelijk begaanbaar waren door de vorst drong de Duitse legerleiding erop aan dat het leger zou moeten terugvallen naar een veilige positie. Deden ze dat niet, dan zou het leger het niet lang meer volhouden. Hitler wilde hier niets van weten en pleitte voor ‘’een laatste krachtinspanning’’ om Moskou in te nemen. De laatste krachtinspanning was een totale mislukking. Het zag er voor Hitler niet goed uit. In het oorspronkelijke plan zou het grootste verkeerspunt van Rusland rond deze tijd in Duitse handen zijn geweest, hierdoor zou de Russische moraal dalen en die van de Duitsers toenemen. Dit was op dat moment totaal niet het geval. De Russische moraal was nog steeds goed door het stilhouden van informatie over de opmars van het Duitse leger voor het Russische volk. Drie weken na deze aanval waren de Duitsers weer binnen bereik van het Rode Leger en werden genadeloos neergemaaid. Deze keer was de nederlaag zo groot dat de Wehrmacht nooit meer dezelfde mankracht zou hebben. Hitler had hierna de taak als opperbevelhebber aan het Oostblok compleet op zich genomen. Dit leidde tot grote strategische fouten, aangezien Hitler kennelijk geen geboren generaal was. Een groot keerpunt in de oorlog was de slag bij Stalingrad op 2 februari 1943, vanaf dat moment waren het de Russen die weer flink terrein wonnen van de Duitsers. Op die dag werden 300.000 Duitse soldaten gedwongen zich over te geven.
+(Het aanvalsplan “Barbarossa)
+
+Tussen de poging van Napoleon en die van Hitler zijn dus veel parallellen te vinden. Ze hadden beiden in eerste instantie een vredesverdrag dat door hen werd geschonden. Ook boekte beide in eerste instantie grote vooruitgang en veroverde in rap tempo steeds meer gebied. Deze snelle vooruitgang hielp mee aan het gevoel van onoverwinnelijkheid dat beide leiders hadden nadat ze beide grote delen van West-Europa hadden veroverd. Hierdoor werd een verdere tocht richting Moskou onderschat, met grote gevolgen. Ten eerste dachten ze beide dat ze grotere voorraden hadden dan ze later bleken te hebben, dit kwam met name door de tactiek van Rusland, waarbij alle bruikbare materialen en voorraden verbrand werden en dus onbruikbaar gemaakt. Omdat ze voorraadtekort hadden, werden ze gedwongen tot het verder intrekken van Russisch grondgebied met het oog op de voorraden die ze hopelijk zouden vinden. Hiernaast bood het Oost-Europese landschap niet veel steun aan de oprukkende legers, er liepen rivieren dwars door het uitgebreide achterland en grote gebieden werden overheerst door moerasbossen die ook makkelijk af te sluiten waren door de enkele wegen daar doorheen af te sluiten en doorgang bijna onmogelijk maakte. Napoleon was net op tijd terug voor de winter, maar Hitler niet. Napoleons tocht liep begin december ten einde en kostte hem het overgrote deel van zijn manschappen. Hitler heeft daarentegen de hele winter in Rusland doorgebracht. Ook Hitler verloor kostbare hoeveelheden manschappen. Beide legers zouden later niet meer dezelfde aantallen in manschappen kunnen opbouwen.
+
+ 

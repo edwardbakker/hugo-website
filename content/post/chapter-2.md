@@ -4,6 +4,7 @@ description: "Pierre Gringoire"
 featured_image: ""
 tags: []
 title: "Deelvraag 2: Pierre Gringoire"
+author: "Edward"
 ---
 
 Nevertheless, as be harangued them, the satisfaction and admiration
