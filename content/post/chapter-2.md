@@ -1,9 +1,9 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2017-04-19T10:58:08-04:00
 description: "Pierre Gringoire"
-featured_image: ""
+featured_image: "images/hitler-header.jpg"
 tags: []
-title: "Deelvraag 2: Pierre Gringoire"
+title: "In hoeverre is de aanval van Napoleon op Rusland te vergelijken met de veroveringspoging van Hitler op Rusland?"
 author: "Edward"
 ---
 

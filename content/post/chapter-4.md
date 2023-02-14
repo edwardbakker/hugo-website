@@ -1,9 +1,9 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2017-04-16T10:58:08-04:00
 description: "Master Jacques Coppenole"
 featured_image: ""
-tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+tags: []
+title: "Hoe verhoudt de bevolking van Nederland zich tegenover Napoleon en zijn troepen en in hoeverre is dit verschillend met Hitler en de Duitse troepen?"
 ---
 While the pensioner of Ghent and his eminence were exchanging very low
 bows and a few words in voices still lower, a man of lofty stature, with a

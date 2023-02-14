@@ -1,6 +1,6 @@
 baseURL = 'https://black-mushroom-0cae5de03.2.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'PWS Emily, Dylan en Joey'
+title = 'Home'
 theme = 'ananke' 
 author = "Emily Bakker"
 
@@ -9,7 +9,7 @@ author = "Emily Bakker"
   author = "Emily Bakker"
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "PWS Napoleon en Hitler"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 8

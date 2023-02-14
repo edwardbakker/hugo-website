@@ -1,9 +1,9 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2017-04-18T10:58:08-04:00
 description: "Monsieur the Cardinal"
-featured_image: ""
+featured_image: "images/hitler-header.jpg"
 tags: []
-title: "Chapter III: Monsieur the Cardinal"
+title: "In hoeverre is er een verschil of overeenkomst te vinden tussen de materiele en militaire middelen van beide partijen?"
 ---
 
 Poor Gringoire! the din of all the great double petards of the Saint-Jean,

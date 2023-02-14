@@ -5,13 +5,13 @@ description: "In hoeverre zijn er verschillen en/of overeenkomsten tussen het be
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/napoleon-header.jpg'
 ---
-Deze website bevat de beantwoording van de volgende deelvragen:
+##### __Deze website is een onderdeel van ons PWS. We hebben de beantwoording van de deelvragen uit ons onderzoek op deze website gezet. De deelvragen die we hier beantwoorden, zijn:__
 
 * ##### _“Welke economische, politieke en sociale beleidsvormen/ tactieken werden er door Napoleon en Hitler gebruikt tijdens de oorlog?”_
 * ##### _“In hoeverre is de aanval van Napoleon op Rusland te vergelijken met de veroveringspoging van Hitler op Rusland?”_ 
-* ##### _“In hoeverre is er een verschil of overeenkomst te vinden tussen de materiele en militaire middelen van beide partijen?” (half af)_
+* ##### _“In hoeverre is er een verschil of overeenkomst te vinden tussen de materiele en militaire middelen van beide partijen?”_
 * ##### _“Hoe verhoudt de bevolking van Nederland zich tegenover Napoleon en zijn troepen en in hoeverre is dit verschillend met Hitler en de Duitse troepen?”_ 
 * ##### _“Hoe verhouden Napoleon en zijn troepen zich tegenover het Nederlandse volk en in hoeverre is dit verschillend met de verhouding vanuit Hitler en zijn troepen?”_ 
 * ##### _“Wat zijn de positieve en/of negatieve gevolgen van de bezetting van Napoleon en Hitler voor Nederland?”_

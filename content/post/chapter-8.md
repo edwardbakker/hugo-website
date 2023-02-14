@@ -1,9 +1,9 @@
 ---
-date: 2017-04-20T10:58:08-04:00
+date: 2017-04-10T10:58:08-04:00
 description: ""
-featured_image: "images/hitler-header.jpg"
+featured_image: "images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: []
-title: "Welke economische, politieke en sociale beleidsvormen/ tactieken werden er door Napoleon en Hitler gebruikt tijdens de oorlog?"
+title: "In hoeverre heeft de achtergrond en de macht van Hitler voor zijn staatsgreep invloed gehad op het veroveren van de macht in Duitsland?"
 ---
 
 Zowel Napoleon als Hitler heeft geprobeerd Rusland te veroveren en beiden zijn daarin gefaald. De twee veroveraars waren tot het moment dat zij Rusland aanvielen niet te stoppen, maar toch heeft Rusland beide gestopt. Hoe hebben Napoleon en Hitler dat geprobeerd en hoe heeft Rusland ze tegengehouden en op welke manier? 
