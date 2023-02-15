@@ -1,86 +1,30 @@
 ---
 date: 2017-04-16T10:58:08-04:00
-description: "Master Jacques Coppenole"
+description: ""
 featured_image: ""
 tags: []
-title: "Hoe verhoudt de bevolking van Nederland zich tegenover Napoleon en zijn troepen en in hoeverre is dit verschillend met Hitler en de Duitse troepen?"
+title: "Op welke manier heeft Hitler zoveel van Europa veroverd?"
 ---
-While the pensioner of Ghent and his eminence were exchanging very low
-bows and a few words in voices still lower, a man of lofty stature, with a
-large face and broad shoulders, presented himself, in order to enter
-abreast with Guillaume Rym; one would have pronounced him a bull-dog by
-the side of a fox. His felt doublet and leather jerkin made a spot on the
-velvet and silk which surrounded him. Presuming that he was some groom who
-had stolen in, the usher stopped him.
+**Hoeveel en tot hoever heeft Hitler veroverd?**  
+In de periode voor de Tweede Wereldoorlog is Duitsland gekrompen. Dit kwam doordat andere landen, zoals Frankrijk, delen van Duitsland hadden ingenomen. Nog voordat Duitsland andere landen aanviel was het eerst hun doel om deze verloren stukken land terug te veroveren. Dit begon bij het Saarland dat na het Verdrag van Versailles werd ingenomen door Frankrijk. In 1935 werd er een volksstemming gehouden om te bepalen of het Saarland van Frankrijk zou blijven of als het zich weer zou voegen bij Duitsland. Uit deze stemming bleek dat maar liefst 90,7 procent van de inwoners binnen het Saarland zich weer bij Duitsland wilde voegen. Dit gebeurde dan ook. De volgende terugname van Duitsland was het Rijnland. Het terugveroveren van het Rijnland kostte de Duitsers weinig moeite. Een aantal Duitse soldaten marcheerde het stuk land in, zonder enig verzet van Franse of Engelse troepen die het gebied hiervoor in beslag hadden genomen.. Dit had allemaal te maken met de appeasementpolitiek van deze landen. Een aantal jaar later viel Hitler het Sudetenland binnen. Dit stuk land bestond vooral uit Oostenrijk en delen van Slowakije (zie de kaart hieronder).  
+![](/images/H4-1.jpg)  
+ De meeste inwoners van het Sudetenland waren Duitstalig en vonden het daarom niet echt een probleem om zich bij Duitsland te voegen. Velen reageerden zelf met veel enthousiasme op de Duitse inval. Ook op deze verovering wordt niet actief gereageerd door de geallieerden. 
 
-“Hold, my friend, you cannot pass!”
+In augustus 1939 sloot Hitler een nieuw aanvalsverdrag met de Sovjet-Unie. Het Molotov- Ribbentroppact. In dit verdrag stond dat Hitler zonder enige tegenwerking van Rusland Polen binnen mocht vallen en dat het Poolse land verdeeld werd tussen Duitsland en de Sovjet-Unie. Op 1 september 1939 begon de oorlog dan officieel, Duitsland viel Polen binnen. Hitler had hiervoor een slim plan bedacht waardoor het zou lijken alsof Polen schuldig was, ondanks dit plan verklaarden Frankrijk en Engeland 2 dagen later de oorlog met Duitsland. Op de kaart hier rechts valt te zien hoe het gebied na de verovering wordt verdeeld. Het rode stuk voor Duitsland en het gele stuk voor de Sovjet-Unie.  
+![](/images/H3-2.jpg)  
+Op 9 april 1940 vielen Duitsland, Denemarken en Noorwegen binnen. Denemarken was 1 van de snelst veroverde landen in de Tweede Wereldoorlog. Denemarken gaf zich namelijk na een aantal uur al gewonnen, omdat hun oude wapens en apparatuur geen partij waren tegenover het grote en machtige leger van Duitsland. Noorwegen hield dit een stuk langer vol. Noorwegen wordt dankzij militaire steun vanuit Frankrijk en Engeland pas op 7 juni veroverd.
 
-The man in the leather jerkin shouldered him aside.
+Op 10 mei 1940 viel het Duitse leger Nederland, België en Luxemburg binnen. Dit waren voor de Duitsers strategische plekken om te veroveren. Nederland, België en Luxemburg waren namelijk onderdeel van een aanvalsplan van Duitsland, dit plan ging onder de codenaam “Fall Gelb”. Dit plan ging als volgt: de Duitsers wilden Frankrijk verslaan. Om de Franse verdedigingslinie in het oosten te ontwijken wilde ze via Nederland, België en Luxemburg aanvallen. Een andere grote reden voor het veroveren van Nederland voor de Duitsers was: door Nederland te veroveren kon Duitsland voorkomen dat Engeland voet op het vasteland kon zetten en hier een uitvalsbasis op kon zetten.  
+![](/images/H4-3.jpg)  
+ Duitsland wilde Nederland, België en Luxemburg op een snelle manier aanvallen, de zogeheten Blitzkrieg. De strijd tegen de Duitsers duurt niet heel lang. Luxemburg geeft zich na de inval eigenlijk gelijk over. 4 dagen na de inval van Duitsland bombardeert Duitsland de Nederlandse havenstad Rotterdam. Kort na dit bombardement geeft Nederland zich gewonnen en behoort het tot het Duitse nazirijk. België hield het gevecht iets langer vol en gaf zich na 18 dagen over. 
 
-“What does this knave want with me?” said he, in stentorian tones, which
-rendered the entire hall attentive to this strange colloquy. “Don’t you
-see that I am one of them?”
+Ook Frankrijk werd op 10 mei 1940 binnengevallen, echter kwamen de Duitsers toen nog niet heel ver. De Duitsers vielen op 10 mei alleen via de Duitse grens met Frankrijk aan.
+Frankrijk was hierdoor druk bezig met het tegenhouden van de Duitse troepen rond de Duitse grens. Hitlers tactiek voor het veroveren van Frankrijk was om het vanuit meerdere kanten aan te vallen. Dat was dan ook 1 van de grotere redenen dat Hitler de Benelux veroverde. Begin juni had Hitler dan ook de volledige controle over Nederland, België en Luxemburg en kon Duitsland hierdoor Frankrijk van meerdere kanten aanvallen. Ondanks alle hulp van de Engelse troepen kwamen de Duitse troepen een aantal dagen later (op 15 juni) al aan in Parijs. Frankrijk geeft zich gewonnen en het grootste deel van Frankrijk staat nu onder bewind van de Wehrmacht en dus Hitler. Op de afbeelding hieronder valt te zien hoe Frankrijk verdeeld was na de bezetting.  
+![](/images/H4-4.jpg)  
+ Zoals te zien op de kaart heeft nazi-Duitsland het bovenste deel van Frankrijk en de gehele kustlijn bezet. Hitler heeft ervoor gezorgd dat hij de gehele kustlijn in bezet had zodat de Engelse troepen nergens in Frankrijk aan land konden komen. Duitsland werkte gedurende de Tweede Wereldoorlog samen met Italië, dit valt terug te zien op de kaart. Het gele gebied werd bezet door Italië. Het Blauwe gebied op de kaart blijft in handen van Frankrijk. Dit gebied bleef in handen van Frankrijk, omdat de maarschalk van Frankrijk (Philippe Pétain) er al snel na de inval voor zorgde dat er een wapenstilstand tussen Frankrijk en Nazi-Duitsland kwam. Dit tijdelijke nieuwe Frankrijk werd Vichy-Frankrijk genoemd.
 
-“Your name?” demanded the usher.
+Het volgende Land en tevens grootmacht dat Hitler wilde veroveren was Engeland. Zoals eerder vernoemd bestond het Duitse leger uit 3 onderdelen: de Heer, de Kriegsmarine en de Luftwaffe. Het was voor de Duitse soldaten natuurlijk niet mogelijk om de Engelse over land aan te vallen. Heer viel dus af. De oorlog tussen nazi-Duitsland en Engeland bestond dus uit zeeslagen en vele luchtgevechten. De oorlog tussen nazi-Duitsland en Engeland werd vooral in de lucht uitgevochten. 1 van deze slagen wordt de Slag om Engeland genoemd. Deze slag begon op 10 juli en eindigde op 31 oktober 1940. De Duitse poging was echter geen succes, de Engelse RAF (Royal Air Force) won dit gevecht en Duitslands veroveringspoging was gefaald. Gedurende de hele oorlog is het Hitler niet gelukt om de Engelse RAF te verslaan.
 
-“Jacques Coppenole.”
+Op de kaart hieronder is het gehele rijk van nazi-Duitsland en zijn bondgenoot Italië te zien. Op de kaart is te zien dat Hitler bijna heel Europa had veroverd en dit in een relatief korte tijd, namelijk 5 jaar. 
+![](/images/H4-5.jpg)
 
-“Your titles?”
-
-“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
-
-The usher recoiled. One might bring one’s self to announce aldermen and
-burgomasters, but a hosier was too much. The cardinal was on thorns. All
-the people were staring and listening. For two days his eminence had been
-exerting his utmost efforts to lick these Flemish bears into shape, and to
-render them a little more presentable to the public, and this freak was
-startling. But Guillaume Rym, with his polished smile, approached the
-usher.
-
-“Announce Master Jacques Coppenole, clerk of the aldermen of the city of
-Ghent,” he whispered, very low.
-
-“Usher,” interposed the cardinal, aloud, “announce Master Jacques
-Coppenole, clerk of the aldermen of the illustrious city of Ghent.”
-
-This was a mistake. Guillaume Rym alone might have conjured away the
-difficulty, but Coppenole had heard the cardinal.
-
-“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
-Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
-of God! hosier; that’s fine enough. Monsieur the Archduke has more than
-once sought his _gant_\* in my hose.”
-
-_*  Got the first idea of a timing._
-
-Laughter and applause burst forth. A jest is always understood in Paris,
-and, consequently, always applauded.
-
-Let us add that Coppenole was of the people, and that the auditors which
-surrounded him were also of the people. Thus the communication between him
-and them had been prompt, electric, and, so to speak, on a level. The
-haughty air of the Flemish hosier, by humiliating the courtiers, had
-touched in all these plebeian souls that latent sentiment of dignity still
-vague and indistinct in the fifteenth century.
-
-This hosier was an equal, who had just held his own before monsieur the
-cardinal. A very sweet reflection to poor fellows habituated to respect
-and obedience towards the underlings of the sergeants of the bailiff of
-Sainte-Geneviève, the cardinal’s train-bearer.
-
-Coppenole proudly saluted his eminence, who returned the salute of the
-all-powerful bourgeois feared by Louis XI. Then, while Guillaume Rym, a
-“sage and malicious man,” as Philippe de Comines puts it, watched them
-both with a smile of raillery and superiority, each sought his place, the
-cardinal quite abashed and troubled, Coppenole tranquil and haughty, and
-thinking, no doubt, that his title of hosier was as good as any other,
-after all, and that Marie of Burgundy, mother to that Marguerite whom
-Coppenole was to-day bestowing in marriage, would have been less afraid of
-the cardinal than of the hosier; for it is not a cardinal who would have
-stirred up a revolt among the men of Ghent against the favorites of the
-daughter of Charles the Bold; it is not a cardinal who could have
-fortified the populace with a word against her tears and prayers, when the
-Maid of Flanders came to supplicate her people in their behalf, even at
-the very foot of the scaffold; while the hosier had only to raise his
-leather elbow, in order to cause to fall your two heads, most illustrious
-seigneurs, Guy d’Hymbercourt and Chancellor Guillaume Hugonet.

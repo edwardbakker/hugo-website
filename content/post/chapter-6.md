@@ -1,51 +1,86 @@
 ---
-date: 2017-04-13T10:58:08-04:00
-description: ""
-featured_image: "images/Pope-Edouard-de-Beaumont-1844.jpg"
+date: 2017-04-14T10:58:08-04:00
+description: "Master Jacques Coppenole"
+featured_image: ""
 tags: []
-title: "Wat zijn de positieve en/of negatieve gevolgen van de bezetting van Napoleon en Hitler voor Nederland?"
-author: "Emily"
+title: "Hoe verhoudt de bevolking van Nederland zich tegenover Napoleon en zijn troepen en in hoeverre is dit verschillend met Hitler en de Duitse troepen?"
 ---
+While the pensioner of Ghent and his eminence were exchanging very low
+bows and a few words in voices still lower, a man of lofty stature, with a
+large face and broad shoulders, presented himself, in order to enter
+abreast with Guillaume Rym; one would have pronounced him a bull-dog by
+the side of a fox. His felt doublet and leather jerkin made a spot on the
+velvet and silk which surrounded him. Presuming that he was some groom who
+had stolen in, the usher stopped him.
 
-**Begin van de Franse invloed**  
-De Bataafs-Franse Tijd begon in het jaar 1795. In dit jaar trokken de Nederlandse patriotten met hulp van het Franse leger het land binnen en riepen de Bataafse republiek uit. Frankrijk erkende ondertussen in het Verdrag van Den Haag de Bataafse Republiek en beloofde heb onafhankelijkheid. Staats-Vlaanderen, Maastricht, Staats-Overmaas, Staats-Opper-Gelre met Venlo en de redemptiedorpen werden door de Bataafse Republiek afgestaan aan Frankrijk. Deze gebieden kwamen onder het bewind van Frankrijk te staan en de burgers kregen dezelfde rechten en plichten als de burgers in Frankrijk. Ondertussen kreeg Frankrijk gebruiksrecht op een haven in Vlissingen ook kwam er een recht om in het geval van vijandelijkheden Grave, Bergen op Zoom en ‘s-Hertogenbosch te bezetten. Door de sterke banden met Parijs en het behoud van zelfbestuur werd de Bataafse Republiek de eerste zusterrepubliek van Frankrijk.  
+“Hold, my friend, you cannot pass!”
 
-Napoleon had zichzelf in 1804 tot keizer van Frankrijk gekroond. Hij koos er in 1805 voor om in Nederland ook een eenhoofdig leiderschap in te voeren. Een jaar later koos hij ervoor om het te vervangen door het Koninkrijk Holland en zette hij zijn broer Lodewijk Napoleon Bonaparte op de troon. Echter bleek Napoleon hier ook niet tevreden over te zijn. Hij vond dat zijn broer een te onafhankelijke koers voer in zijn bewind en besloot daarom in 1810 om ook de rest van de Nederlanden bij zijn Franse keizerrijk te voegen. Lodewijk Napoleon deed afstand van zijn troon in de hoop de zelfstandigheid van Nederland te bewaren. Hij zette zijn zoontje Lodewijk II op 1 juli 1810 op de troon in zijn plaats. Napoleon negeerde deze actie en nam Nederland op in zijn eigen gebied met het Decreet van Rambouillet op 9 juli 1810. Napoleon benoemde Nicolas Charles Oudinot tot stadhouder-prins, hij werd al in 1812 opgevolgd door Charles François Lebrun. 
-De Franse tijd eindigde in Noord-Nederland in 1813 toen Napoleon bij Leipzig werd verslagen. Hij deed hierna afstand van de troon. In 1813 werden de Fransen uit Nederland verjaagd behalve in Delfzijl in het Noorden, Naarden in het midden en Maastricht in het zuiden. Hier vertrokken de Fransen uit zichzelf in 1814. Op 30 november 1813 keerde de oudste zoon van Willem V terug. Hij regeerde korte tijd als soeverein vorst totdat hij in 1815 door het Congres van Wenen werd benoemd tot koning der Nederlanden.  
+The man in the leather jerkin shouldered him aside.
 
-In periode dat Napoleon het voor het zeggen had in Nederland werden er veel veranderingen doorgevoerd. Vele van deze veranderingen merken we tot op de dag van vandaag nog steeds. 
+“What does this knave want with me?” said he, in stentorian tones, which
+rendered the entire hall attentive to this strange colloquy. “Don’t you
+see that I am one of them?”
 
-**Positieve gevolgen van Napoleon Bonaparte in Nederland**  
- Hoewel er in de tijd van Napoleon veel dingen niet zo goed gingen in Nederland heeft Napoleon ook veel positieve dingen veroorzaakt en dingen waar we nu nog iets aan hebben. Een van de bekendste veranderingen is een burgerlijk wetboek. Napoleon Bonaparte heeft op 21 maart 1804 een burgerlijk wetboek ingevoerd. Dit wetboek werd bekend als “Code Napoleon” of “Code Civil”. Het door Napoleon ingevoerde wetboek heeft veel invloed gehad op de rechtspraak en het Europese recht. Napoleon had zichzelf in 1804 tot keizer benoemd en dit gaf hem vrijwel alle macht, maar hiervoor had Napoleon ook al veel  macht in handen. Zo werden in 1799 de scheidingswetten gepubliceerd. Deze wetten werden later ook in de Code Napoleon opgenomen. Door deze wet was onder andere bepaald dat een man niet van zijn vrouw mocht scheiden als ze ouder was dan vijfenveertig.  
+“Your name?” demanded the usher.
 
- ![](/images/H6-1.jpg)
+“Jacques Coppenole.”
 
-###### **_Code Napoleon._**
+“Your titles?”
 
-In de Code Napoleon werden alle principes van de Franse revolutie vastgelegd, dit waren: vrijheid, gelijkheid en broederschap. De Code Napoleon was een liberaal wetboek. Door alle regels vast te leggen in een groot wetboek wilde Napoleon de regels van het Franse recht duidelijk en begrijpelijk maken. Er werd van de burgers verwacht dat ze de inhoud kennen. In de Code Napoleon werden de persoonlijke vrijheden van burgers vastgelegd en werd er bepaald dat iedereen voor de wet gelijk was. Dit hield in dat je dus niet zomaar gevangengenomen mocht worden zonder reden. Napoleon voerde ook definitief de godsdienstvrijheid in en beperkte de macht van de kerk. Hiermee zorgde de Code Napoleon voor een definitieve scheiding tussen de kerk en de staat.  
+“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
 
-Andere veranderingen die door Napoleon werden doorgevoerd zijn: het invoeren van de achternaam. Napoleon stelde het verplicht dat iedereen een achternaam koos, deze werden opgeschreven in grote boeken en bewaard bij het stadhuis. Ook werden er straatnamen en huisnummers ingevoerd. Napoleon wilde ook dat alle informatie over mensen hun huis, zoals de afmetingen, de ligging en de grondoppervlakte. Dit wordt allemaal geregistreerd bij het kadaster. En op basis hiervan wordt deels bepaald hoeveel belasting iemand moet betalen. Ook dit was dus een belangrijk positief effect. Want door deze informatie te gebruiken om het stuk belasting te berekenen gebeurde dit veel eerlijker. 
-Napoleon voerde ook het metriek stelsel in. Hierdoor hebben we maten zoals de kilometer, de meter en de centimeter maar ook de kilogram en de gram en de liter. Op sommige plekken gingen mensen aan de rechterkant rijden in plaats van de linkerkant maar omdat dit geen landelijk beleid was gebeurde dit niet overal. Een andere grote verandering is de oprichting van een nationale bibliotheek in 1798. 
+The usher recoiled. One might bring one’s self to announce aldermen and
+burgomasters, but a hosier was too much. The cardinal was on thorns. All
+the people were staring and listening. For two days his eminence had been
+exerting his utmost efforts to lick these Flemish bears into shape, and to
+render them a little more presentable to the public, and this freak was
+startling. But Guillaume Rym, with his polished smile, approached the
+usher.
 
-**Negatieve gevolgen van Napoleon Bonaparte in Nederland**  
-De negatieve gevolgen voor Nederland onder het regime van Napoleon Bonaparte zijn niet heel groot. Dit komt omdat de meeste dingen die door Napoleon doorgevoerd zijn nu nog steeds onderdeel zijn van het beleid in Nederland. Zo hebben we een grondwet die lijkt op de Code Napoleon. Wel waren de vele veldslagen die hebben plaats gevonden een klap voor Nederland en de bevolking. Deze veldslagen hebben veel mensen het leven gekost en kosten ook veel geld. Een ander belangrijk negatief gevolg was dat na de Franse invasie dat Nederlandse economie er in 1813 gehavend uit kwam. Dit kwam door een aantal redenen. Gedurende het bondgenootschap tussen Nederland en Frankrijk nam Engeland haar kans en veroverde overzeese gebieden die eerst tot Nederland behoorde. In 1815 gaven de Britten Suriname terug aan Nederland maar de andere gebieden waren ze definitief kwijt.  
+“Announce Master Jacques Coppenole, clerk of the aldermen of the city of
+Ghent,” he whispered, very low.
 
-Een andere reden voor de slechte economie in Nederland was het volgende. In 1806 had Napoleon het continentaal stelsel ingesteld dit bleef tot 1814 in stand. Dit hield in dat hij beslag legde op Britse producten in gebieden waar Frankrijk het gezag had. Napoleon hoopte hiermee te bereiken dat de Britten minder geld zouden hebben voor hun leger en vloot. De Britten kwamen al snel met een reactie op dit stelsel. Als reactie hierop verboden ze de grote zeemacht van die tijd handel te drijven met de Franse gebieden. Nederland, die voor het grootste gedeelte afhankelijk was van de inkomsten van overzeese handel werd hierdoor erg hard geraakt. Ondanks de smokkel die op grote schaal plaats vond bleef Nederland na de periode van Napoleon met een zwaar beschadigde economie achter.    
+“Usher,” interposed the cardinal, aloud, “announce Master Jacques
+Coppenole, clerk of the aldermen of the illustrious city of Ghent.”
 
-**De Duitse verovering van Nederland**   
-Nederland heeft al eeuwen dezelfde strategie als het gaat om internationale conflicten, zoveel mogelijk neutraal blijven. Alleen als Nederland zelf wordt aangevallen kiezen ze een kant. Deze strategie werkt goed tijdens de eerste wereldoorlog en in het begin van nazi-Duitsland nemen ze hetzelfde standpunt aan, ze willen Duitsland geen aanleiding geven Nederland aan te vallen. Hierdoor ontstaat een bijzondere situatie. Nederlanders die het niet eens zijn met de ideeën van Adolf Hitler en zich hierover uitspreken worden opgepakt en vervolgd voor de belediging van een bevriend staatshoofd.  
+This was a mistake. Guillaume Rym alone might have conjured away the
+difficulty, but Coppenole had heard the cardinal.
 
-Nederland was voor de Duitser een strategische plek om te veroveren. Nederland was namelijk onderdeel van een aanvalsplan van Duitsland, dit plan ging onder de codenaam “Fall Gelb”. Dit plan ging als volgt: de Duitsers wilde Frankrijk verslaan. Om de Franse verdedigingslinie in het oosten te ontwijken wilde ze via Nederland en België gaan. Een andere grote reden voor het veroveren van Nederland voor de Duitsers was: door Nederland te veroveren kon Duitsland voorkomen dat Engeland voet op het vasteland kon zetten en hier een uitvalsbasis op kon zetten. Duitsland wilde Nederland, België en Luxemburg op een snelle manier aanvallen, de zogeheten Blitzkrieg.  
+“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
+Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
+of God! hosier; that’s fine enough. Monsieur the Archduke has more than
+once sought his _gant_\* in my hose.”
 
-De aanval op Nederland was goed onderzocht en goed over na gedacht. Zo hadden de Duitsers gebruik gemaakt van spionage. Op deze manier wilde ze achter de zwakke plekken van de Nederlandse verdediging komen. Ze stuurde Duitse officieren vermomt als toeristen naar Nederland om de omgeving in zich op te nemen. Ook verzamelde ze informatie van Duitsers die woonden in Nederland. Hierdoor waren de Duitsers goed voorbereidt op hun aanval op Nederland en op 10 mei 1940 vallen ze Nederland binnen.  
+_*  Got the first idea of a timing._
 
-Ondanks het feit dat Nederland neutraal wil blijven zijn ze niet geheel onvoorbereid op de aanval van de Duitsers. De regering hield steeds meer rekening met een aanval vanuit Duitsland. Zo worden soldaten langer in dienst gehouden en mogen ze niet meer met verlof. De regering kondigt op 19 april 1940 de staat van beleg af. Hierdoor kan de regering gevoelige militaire informatie censureren en mogen ze staatsgevaarlijke personen arresteren. Er is namelijk de angst ontstaan dat de Nederlandse NSB’ers de Duitsers zullen helpen als zij besluiten Nederland binnen te vallen. 
-De strijd tegen de Duitsers duurt niet heel lang. Na ongeveer 5 dagen is de strijd in Nederland over en hebben de Duitsers Nederland veroverd. Veel inwoners van Nederland willen vluchten. Sommige vluchten voor het oorlogsgeweld, andere vluchten voor de nazi’s. Er zijn namelijk veel mensen die eerder vanuit Duitsland naar Nederland gevlucht waren. Deze mensen probeerde te vluchten naar Engeland. Voor de meeste mensen mislukte deze poging echter en gingen een onzekere toekomst tegemoet in het door Duitsland veroverde Nederland.   
+Laughter and applause burst forth. A jest is always understood in Paris,
+and, consequently, always applauded.
 
-**Positieve gevolgen van Adolf Hitler in Nederland**  
-De positieve gevolgen van de bezetting van Duitsland zijn heel kort samen te vatten. Deze zijn er namelijk niet. De Tweede Wereldoorlog heeft Nederland eigenlijk alleen maar ellende gebracht. Na de oorlog ontstond er wel een nationalistisch beeld in Nederland, het idee dat Nederland elkaar moet helpen en er voor elkaar moet zijn en elkaar moet helpen. Voor de rest heeft de bezetting geen positieve gevolgen gehad voor Nederland.   
+Let us add that Coppenole was of the people, and that the auditors which
+surrounded him were also of the people. Thus the communication between him
+and them had been prompt, electric, and, so to speak, on a level. The
+haughty air of the Flemish hosier, by humiliating the courtiers, had
+touched in all these plebeian souls that latent sentiment of dignity still
+vague and indistinct in the fifteenth century.
 
-**Negatieve gevolgen van Adolf Hitler in Nederland**  
-De negatieve gevolgen van de bezetting van Nederland zijn massaal te vinden en te benoemen. Zo was een groot gedeelte van de bevolking vermoord, niet alleen omdat ze joods waren maar ook wanneer ze zich verzetten tegen de nazi’s of mensen hielpen die tegen de nazi’s waren. Nederland werd tijdens de Tweede Wereldoorlog ook volledig verwoest. Door alle gevechten en bombardementen die hadden plaats gevonden waren ontzettend veel steden met de grond gelijkgemaakt. Dit zou de regering later heel veel geld kosten om alles te herstellen. Ook was de economie volledig uitgebuit door de Duitsers. Zij maakte vooral veel gebruik van andere landen om hun oorlog te kunnen blijven voeren. Als laatste waren de mensen van de Nederlandse bevolking achtergebleven met een trauma door alles wat ze hadden meegemaakt of hadden gezien. Zo zijn de kleine aantallen Joden die terugkwamen uit de concentratiekampen die emotionele wonden hebben opgelopen in de concentratiekampen. Door deze trauma’s werd er door de slachtoffers niet of nauwelijks gesproken over de gruwelijke daden die ze hebben zien gebeuren of hebben meegemaakt. Dit zijn de negatieve gevolgen van de bezetting van Nederland. 
+This hosier was an equal, who had just held his own before monsieur the
+cardinal. A very sweet reflection to poor fellows habituated to respect
+and obedience towards the underlings of the sergeants of the bailiff of
+Sainte-Geneviève, the cardinal’s train-bearer.
 
- 
+Coppenole proudly saluted his eminence, who returned the salute of the
+all-powerful bourgeois feared by Louis XI. Then, while Guillaume Rym, a
+“sage and malicious man,” as Philippe de Comines puts it, watched them
+both with a smile of raillery and superiority, each sought his place, the
+cardinal quite abashed and troubled, Coppenole tranquil and haughty, and
+thinking, no doubt, that his title of hosier was as good as any other,
+after all, and that Marie of Burgundy, mother to that Marguerite whom
+Coppenole was to-day bestowing in marriage, would have been less afraid of
+the cardinal than of the hosier; for it is not a cardinal who would have
+stirred up a revolt among the men of Ghent against the favorites of the
+daughter of Charles the Bold; it is not a cardinal who could have
+fortified the populace with a word against her tears and prayers, when the
+Maid of Flanders came to supplicate her people in their behalf, even at
+the very foot of the scaffold; while the hosier had only to raise his
+leather elbow, in order to cause to fall your two heads, most illustrious
+seigneurs, Guy d’Hymbercourt and Chancellor Guillaume Hugonet.

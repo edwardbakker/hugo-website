@@ -1,91 +1,34 @@
 ---
 date: 2017-04-19T10:58:08-04:00
-description: "Pierre Gringoire"
+description: ""
 featured_image: "images/hitler-header.jpg"
 tags: []
-title: "In hoeverre is de aanval van Napoleon op Rusland te vergelijken met de veroveringspoging van Hitler op Rusland?"
+title: "In hoeverre heeft de achtergrond en de macht van Hitler voor zijn staatsgreep invloed gehad op het veroveren van de macht in Duitsland?"
 author: "Edward"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+Adolf Hitler, hij was een van de machtigste mannen ooit. Niet alleen ten tijde van de 2e wereldoorlog, maar ook nu nog wordt hij gezien als 1 van de machtigste ooit. Maar hoe is hij zo machtig geworden en waar komt deze man eigenlijk vandaan? En in hoeverre heeft zijn politieke en/of sociale positie voordat hij de leider van het machtige nazirijk was invloed gehad op het veroveren van de macht in Duitsland. Om deze vragen te beantwoorden wordt er eerst dieper ingegaan op de geschiedenis van Adolf Hitler.
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+Adolf Hitler werd in 1889 geboren in het plaatsje Braunau Am Inn in Oostenrijk (destijds nog Oostenrijk-Hongarije). Hitler had in zijn jongere jaren een goede relatie met zijn moeder Klara Pölzl. In tegenstelling tot de relatie met zijn moeder was de relatie met zijn vader erg slecht. Zijn vader (Alois Hitler) was een autoritaire en agressieve man. Dit werd dan ook vaak op Hitler afgereageerd. Hitlers vader overleed tijdens de tienerjaren van Hitler. Hitler leek hier weinig moeite mee te hebben. In de komende jaren ging Hitler naar verschillende scholen. Op deze scholen was Hitler vrij ingetogen en verlegen, een groot contrast in vergelijking met zijn komende jaren als leider van Duitsland. Na deze lagere scholen ging Hitler naar de Realschule (een soort middelbare school in Duitsland). Hitler presteerde niet goed op deze school, omdat Hitler alleen zijn best deed voor de vakken die hij interessant vond. Hitler was wel erg goed in tekenen. Hij heeft uiteindelijk ook nooit zijn diploma gehaald. Zoals eerder genoemd was Hitler wel goed in tekenen. Hij ontwikkelde langzaam maar zeker een passie voor de kunst. Vanwege deze passie schreef Hitler zich in voor een kunstacademie in Wenen, echter werd Hitler 2 keer afgewezen voor de kunstacademie.  
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+![](/images/H2-1.jpg)
+###### **_Schilderij van Hitler (1912)_**
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+Hitler was erg ontevreden in Oostenrijk-Hongarije. Hij emigreerde daarom naar Duitsland, dit gebeurde in 1913. Een jaar later brak de Eerste Wereldoorlog uit. Hitler meldde zich vrijwillig aan bij het Duitse leger. Hitler diende tijdens de oorlog als koerier bij de grondtroepen op het westfront. In 1914 werd Hitler zijn moed tijdens de oorlog beloond met een ijzeren kruis (een Duitse militaire onderscheiding). Hitler raakte tijdens de Eerste Wereldoorlog 2 keer gewond. De eerste keer in 1916 door een granaat en de tweede keer door een gifgasaanval in 1918. Deze gifgasaanval heeft ervoor gezorgd dat Hitler het einde van de oorlog niet bewust heeft meegemaakt. Hitler twijfelde daarom enorm aan de val van het westfront. Hitler geloofde daarom ook heilig in de dolkstootlegende. De dolkstootlegende is een (complot)theorie die inhield dat de oorlog niet op het slagveld werd verloren, maar door politieke besluiten werd verloren. Volgens aanhangers van deze theorie waren de troepen en middelen nog lang niet uitgeput en was het niet de juiste politieke beslissing om de strijd te staken.
+Na de Eerste Wereldoorlog voelde Hitler zich verslagen, de grote oorlog die Duitsland had moeten winnen, verloren door een politiek besluit (volgens Hitler althans). Kort na de oorlog besloot Hitler daarom zelf de politiek in te gaan. In 1919 werd hij lid van de DAP (de Duitse ArbeidersPartij). Een partij met nationalisme en antisemitisme denkbeelden (de perfecte partij voor Hitler). Tijdens zijn lidmaatschap aan de DAP viel Hitler al snel op dankzij zijn speeches. Hij groeide snel binnen de partij en binnen een jaar of 2 werd Hitler al gezien als het hoofd van de partij. Hitler maakte verschillende veranderingen binnen de partij in de hoop meer aanhangers te krijgen. Zo was het niet meer de DAP maar de NSDAP. De nationaalsocialistische Duitse Arbeiderspartij. In de komende jaren traint Hitler zijn speech vermogen en geeft hij honderden speeches voor de NSDAP. Hierdoor groeide Hitler zijn aanhang steeds meer. Daarnaast speelde Hitler in zijn speeches erg goed in op de belangen van het volk. De economie binnen het land was erg slecht. Dit kwam door de herstelbetalingen die Duitsland aan de geallieerden moest betalen. Er werd steeds meer geld gedrukt in Duitsland om het stakende volk te kunnen betalen. Hierdoor ontstond er een enorme hyperinflatie in Duitsland. Duitsland kon de betalingen aan de geallieerden uiteindelijk niet meer bijbenen. Het Duitse Ruhrgebied werd daarom in beslag genomen door Franse en Belgische soldaten. Hitler beloofde het volk om deze problemen aan te pakken. Hitler krijgt hierdoor steeds meer aanhang vanuit het volk. Dankzij de steun van het volk en de militaire steun van de SA heeft Hitler genoeg moed verzameld om een staatsgreep in Beieren te plegen.
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+![](/images/H2-2.jpg)  
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+ Richting het einde van 1923 viel Hitler de Münchense Bürgerbräukeller binnen, waar op dat moment een bijeenkomst tussen Beierse politici aan de gang was. Hitler zorgt er tijdens deze inval voor dat de politici van Beieren zweren om Hitler te steunen. Deze politici geven Hitler zijn zin echter 1 dag later schakelen ze de politie in. Hitler marcheert  samen met zijn medestanders door naar München, maar dat mislukt. Hitler wordt opgewacht door de politie en 2 dagen na zijn poging tot staatsgreep wordt hij opgepakt. Hitler werd veroordeeld tot 5 jaar cel. Tijdens zijn jaren in de cel schreef Hitler Mein Kampf. 
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+Ondanks zijn veroordeling van 5 jaar komt Hitler na 9 maanden alweer vrij. Na zijn vrijlating ging Hitler door met de NSDAP. Zijn voorlopige doel was om de grootste partij van Duitsland te worden. Dit lukte in eerste instantie niet. Hitler gebruikte de economische crisis in 1922/1923 om aanhang van het volk te winnen, maar de economie van Duitsland begon juist weer te bloeien. Totdat er in 1929 weer een enorme economische crisis was. De Amerikaanse beurs viel uiteen waardoor Amerika het geld wat ze met het Dawesplan hadden uitgeleend terug wilde. Duitsland kwam wederom in een enorme economische crisis terecht. De werkloosheid binnen Duitsland groeide enorm en het volk was niet tevreden. Hitler speelde hier wederom op in. De NSDAP begon hierdoor weer te groeien, maar nog niet groot genoeg voor een meerderheid. In 1933 werd Hitler benoemd tot Rijkskanselier.
+Niet veel later overleed president Hindenburg. Hitler wachten op deze dag, hij was nu in totale politieke controle over Duitsland. 2 dagen later gaf de reichswehr zich over 
+Hierdoor had Hitler een compleet geweldsmonopolie en complete zeggenschap over het leger. 
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+Toen Hitler eindelijk alle macht binnen Duitsland had, begon hij zich te focussen op buitenlandse politiek. Het Saarland (een deel van Duitsland wat na het verdrag van Versailles deel van Frankrijk werd) werd terug gevoegd bij Duitsland dankzij een referendum binnen het Saarland. Dit was Hitlers eerst grote overwinning richting het buitenland 
+Niet veel later verbrak Hitler het verdrag van Versailles door de dienstplicht weer in te voeren, daarnaast begon hij ook met het herbewapenen van Duitsland. Op 7 maart 1936 stuurde hij zijn troepen het Rijnland in om het te herbezetten. De orde binnen Duitsland keerde langzaam terug en de werkloosheid nam sterk af. 
 
-“Jupiter,” said he, “my dear Jupiter!”
+**Conclusie**  
+Opvallend is vooral dat Hitler heel slim gebruik maakte van de huidige situaties binnen Duitsland. Zo speelde hij erg slim in op de economische crisissen binnen het land. Hij zag goed in wanneer hij waar moest zijn en wat hij moest gebruiken voor zijn speech. Zo nam de werkloosheid in 1929 enorm toe en speelde Hitler hier meteen op in, niet alleen door dit probleem aan te kaarten, maar ook door te beloven dat hij dit gaat oplossen en Duitsland weer net zo machtig zou maken als vroeger. Door het maken van dit soort beloften kreeg Hitler snel veel aanhang. Naast het goed inspelen op de huidige situatie was Hitler ook heel goed in het geven van speeches. Hitler was zelf voortdurend bezig met het verbeteren van zijn charisma en speech vermogen. Dit heeft hem ook vrij snel veel aanzien opgeleverd. Niet alleen bij het volk maar ook binnen de DAP bijvoorbeeld. Dankzij Hitler zijn goede speech vermogen klom hij enorm snel op binnen de partij en werd hij al snel de leider van de partij.
+De achtergrond van Hitler heeft hem niet per se geholpen met het verwerven van zijn machtige positie in Duitsland. Hitler kwam uit een redelijk normaal gezin en studeerde op een normale school die hij niet eens heeft afgemaakt. 
 
-The other did not hear.
-
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
-
-“Michel Giborne!”
-
-“Who calls me?” said Jupiter, as though awakened with a start.
-
-“I,” replied the person clad in black.
-
-“Ah!” said Jupiter.
-
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
-
-Jupiter breathed once more.
-
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
-
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
-
-“Noel! Noel! good, good,” shouted the people.
-
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
-
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
-
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”

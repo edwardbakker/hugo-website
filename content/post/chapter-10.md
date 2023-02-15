@@ -1,10 +1,20 @@
 ---
-date: 2017-04-13T10:58:08-04:00
+date: 2017-04-10T10:58:08-04:00
 description: ""
 featured_image: "images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: []
-title: "Hoe machtig was Napoleon aan het begin van zijn poging tot het veroveren van Europa, hoe heeft hij die macht verkregen en heeft Napoleons afkomst hem hierbij geholpen/tegengewerkt?"
+title: "In hoeverre heeft de achtergrond en de macht van Hitler voor zijn staatsgreep invloed gehad op het veroveren van de macht in Duitsland?"
 ---
+| Etnische groep 	|  	| Percentage te verwijderen mensen 	|
+|----------------	|---|------	|
+| Polen           	|  	| 80-85%    	|
+| Wit-Russen           	|  	| 75%     	|
+| Oekraïners          	|  	| 65%     	|
+| Esten          	|  	| 50%     	|
+| Letten          	|  	| 85%     	|
+| Litouwers           	|  	| 85%     	|
+| Tsjechen           	|  	| 50%     	|
+
 
 Zowel Napoleon als Hitler heeft geprobeerd Rusland te veroveren en beiden zijn daarin gefaald. De twee veroveraars waren tot het moment dat zij Rusland aanvielen niet te stoppen, maar toch heeft Rusland beide gestopt. Hoe hebben Napoleon en Hitler dat geprobeerd en hoe heeft Rusland ze tegengehouden en op welke manier? 
 Napoleon viel in 1812 Rusland aan, nadat tsaar Alexander in 1810 het bondgenootschap met Frankrijk verbrak. Rusland liep anders economisch te veel schade op, aangezien hun belangrijkste handelspartners de Engelse waren. Napoleon had in 1806 het continentale stelsel opgesteld waarin stond dat Europese landen geen handel meer mochten drijven met Groot-Brittannië. Het idee hierachter was dat Groot-Brittannië, hierdoor geen gevaarlijke militaire vijand zou worden. Om dit te handhaven nam Napoleon 35.000 douaneambtenaren aan die moesten zorgen dat alle landen zich hieraan hielden. De arrogante houding van deze ambtenaren zorgde er door de jaren heen voor dat de populariteit van Napoleon drastisch afnam in de door hem veroverde landen.

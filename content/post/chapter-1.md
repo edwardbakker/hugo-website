@@ -3,40 +3,40 @@ date: 2017-04-20T10:58:08-04:00
 description: ""
 featured_image: "images/hitler-header.jpg"
 tags: []
-title: "Welke economische, politieke en sociale beleidsvormen/ tactieken werden er door Napoleon en Hitler gebruikt tijdens de oorlog?"
+title: "Hoe machtig was Napoleon aan het begin van zijn poging tot het veroveren van Europa, hoe heeft hij die macht verkregen en heeft Napoleons afkomst hem hierbij geholpen/tegengewerkt?"
 ---
+Napoleon kreeg zijn macht ten gevolge van de Franse revolutie (1789-1799)
+Voor deze revolutie heerste het ancien régime in Frankrijk, een rijke groep elite die door middel van het leenstelsel hun macht verdeelde en over Frankrijk heerste.
+Er waren in die tijd veel verschuivingen van macht in de westerse wereld.
+Kijk naar de onafhankelijkheidsverklaring in de VS en de opstanden in de Nederlandse Republiek.
 
-Zowel Napoleon als Hitler heeft geprobeerd Rusland te veroveren en beiden zijn daarin gefaald. De twee veroveraars waren tot het moment dat zij Rusland aanvielen niet te stoppen, maar toch heeft Rusland beide gestopt. Hoe hebben Napoleon en Hitler dat geprobeerd en hoe heeft Rusland ze tegengehouden en op welke manier? 
-Napoleon viel in 1812 Rusland aan, nadat tsaar Alexander in 1810 het bondgenootschap met Frankrijk verbrak. Rusland liep anders economisch te veel schade op, aangezien hun belangrijkste handelspartners de Engelse waren. Napoleon had in 1806 het continentale stelsel opgesteld waarin stond dat Europese landen geen handel meer mochten drijven met Groot-Brittannië. Het idee hierachter was dat Groot-Brittannië, hierdoor geen gevaarlijke militaire vijand zou worden. Om dit te handhaven nam Napoleon 35.000 douaneambtenaren aan die moesten zorgen dat alle landen zich hieraan hielden. De arrogante houding van deze ambtenaren zorgde er door de jaren heen voor dat de populariteit van Napoleon drastisch afnam in de door hem veroverde landen.
+**Wat was de stand van zaken in Frankrijk aan het begin van de revolutie?**
 
-![](/images/Afbeelding1.png)
+In 1789 wilde de franse bevolking een einde maken aan de tijd van absolute vorsten in het land. In die tijd heerste er een kleine groep van adel (minder dan 2% van de bevolking) en geestelijke (0,5-1% van de bevolking over de boerenstand (rond de 85%) en de burgerij(rond de 12%)
+Deze 97% van de bevolking moest alle belasting betalen om het land draaiende te houden zonder enige vorm van inspraak te hebben op het bestuur van het land.
+Rond 1789 waren de oogsten mislukt en was er veel hongersnood in het land. Een brood kostte ook gemiddeld 80% van het dagloon van een gemiddelde arbeider.
+Ondanks deze moeilijke tijd bleef de belasting hoog, aangezien Frankrijk in die tijd in meerdere oorlogen verwikkeld was en de nationale schatkist een dieptepunt bereikte.
+Politiek ging het ook niet goed in het land, er was sinds 1614 geen Staten-Generaal meer bijeengeroepen en de bevolking had veel klachten, met name over de absolutistische vorsten en het leenstelsel naar aanleiding van de verlichting.
 
-###### **_In het donkerblauw Frankrijk (na de verovering van de Bataafse Republiek), in het middenblauw de satellietstaten en in het lichtblauw de resterende landen die zich aan het continentale stelsel hielden._**
- 
-Het continentale stelsel hield stand van 1806 tot 1814. Toen Napoleon in 1812 Rusland aanviel had hij in eerste instantie weinig tegenslagen met dank aan de snelle oprukking van de Grande armée (het Franse leger). Het Russische leger was hierdoor genoodzaakt zich ver terug te trekken en maakte gebruik van een oude techniek: alles wat van militaire of economische waarde was voor de franse werd compleet platgebrand. Naast deze vernietiging werd ook al het water vergiftigd. Veel soldaten liepen hierdoor allerlei besmettelijke ziektes op. De voorraden van Napoleon waren veel minder dan verwacht en Napoleon werd genoodzaakt steeds verder Rusland in te trekken. Hij was vastberaden dat de Russen zich zouden overgeven, ondanks de zware materiële verliezen die hij onderweg had opgelopen en trok door naar Moskou. Aangekomen bij Borodino, het voorstadje van Moskou, ontstond er een grote veldslag die net aan gewonnen werd door de Franse. De Russische generaal Koetoezov was genoodzaakt de stad te evacueren.  14 september 1812 trok het Franse leger Moskou binnen. Het plezier van de behaalde winst ging snel in vlammen op, nadat de stad door de Russen in brand werd gestoken. Napoleon was genoodzaakt de stad te verlaten door het tekort aan voorraden en trok zich terug. Dit bleek een moeilijke opgave door de aanbrekende kou, een hevige uitbraak van de tyfus, de afwezigheid van elke vorm van hulp van de platgebrande Russische steden en de constante aanvallen van de kozakken (Russisch leger). Van de 70.000 Franse manschappen, waarmee Napoleon was begonnen, zijn er 18.000-22.000 teruggekeerd. 18 december 1812 waren ze weer teruggekomen en was de ramptocht ten einde gekomen.
-(Napoleons terugtrekking uit Moskou van Adolf Northern) 
+**Waar komt Napoleon vandaan?**  
 
-
-Net als Napoleon had Adolf Hitler in eerste instantie een vredesverdrag met Rusland. Dit was voor beide partijen voordelig:
-Voor de Sovjet-Unie was dit voordelig aangezien zij niet de militaire noch de economische middelen hadden om zich een grootschalige oorlog te kunnen veroorloven. Hitler had een meer tactische reden om geen oorlog aan te gaan met de Sovjet-Unie. In de Eerste Wereldoorlog had het toenmalige Duitse rijk een twee fronten oorlog moeten voeren, waardoor ze hun manschappen en materieel hadden moeten opdelen, dit was mede de oorzaak dat de Eerste Wereldoorlog was verloren. Om te zorgen dat dit niet zou gebeuren, sloten ze dus een niet-aanvalsverdrag. Hitler zou zich later wel zorgen maken over de Sovjet-Unie. Het stond wel vast dat Oost-Europa veroverd moest worden en daar maakte Hitler geen geheim van. Het fascisme was de ideologische tegenpool van het communisme, zowel in theorie als in de praktijk en moest het communisme dus plaatsmaken voor Hitlers ‘’lebensraum’’ droom. Deze droom van Hitler was om meer leefruimte/ lebensraum te maken voor het Duitse ras. Om dit te verwezenlijken werd Generalplan Ost bedacht: Midden- en Oost-Europa moeten germaniseren en de inheemse bevolking moet op die plekken weggedreven worden. Generalplan Ost bestond uit een klein en een groot plan. Het kleine plan bestond uit acties die tijdens de oorlog zouden moeten worden uitgevoerd. Deze hielden zich bezig met de uitroeiing van de Poolse elite. Het grote plan beschreef de naoorlogse plannen in een 30-jaren plan: Er zouden 45 miljoen inheemse burgers worden gedeporteerd uit de door Hitler uitgekozen gebieden naar Siberië en daarvoor kwamen 8 tot 10 miljoen Germaanse boeren in de plaats. 14 inheemse burgers zouden achterblijven om te dienen als slaven voor de boeren.
-
-
-
-| Etnische groep 	|  	| Percentage te verwijderen mensen 	|
-|----------------	|---|------	|
-| Polen           	|  	| 80-85%    	|
-| Wit-Russen           	|  	| 75%     	|
-| Oekraïners          	|  	| 65%     	|
-| Esten          	|  	| 50%     	|
-| Letten          	|  	| 85%     	|
-| Litouwers           	|  	| 85%     	|
-| Tsjechen           	|  	| 50%     	|
-
-###### **_Deze tabel laat zien welke percentages van de inheemse bevolking moest worden gedeporteerd/uitgeroeid per bevolkingsgroep._**
-
- Hiernaast was Hitlers oog gevallen op de olie en andere essentiële grondstoffen die de Sovjet-Unie in bezit had. 22 juni 1941 viel Hitler de Sovjet-Unie aan "Operatie Barbarossa”. Door de blitzkrieg tactiek (zo snel mogelijk mobiliseren en zo snel mogelijk zo veel mogelijk gebied veroveren) kende Hitler een zeer succesvolle openingsfase. Binnen drie weken hadden ze al 600 kilometer van het Sovjet-Unie gebied veroverd.  Zo goed als heel Wit-Rusland was veroverd, net als grote delen van Oekraïne en de Baltische staten. Hierna ontstonden de eerste problemen. Ten eerste had de Duitse legerleiding in zijn berekeningen gedacht dat de Sovjet-Unie veel trager zou mobiliseren. Ook bleek het wegennet van Rusland van veel mindere kwaliteit te zijn waardoor de Duitse "pantser spitzen" niet snel genoeg van nieuwe voorraden konden worden voorzien. Stalin gebruikte ter verdediging precies dezelfde tactiek als die zijn voorganger tsaar Alexander tegen Napoleon had gebruikt: Er mocht geen enkel bruikbaar materiaal in Duitse handen vallen, met name geen Russisch eten en geen locomotieven en ander spoormaterieel. Rusland had namelijk een ander formaat spoorrails en dus konden de Duitsers hun eigen treinen niet gebruiken. Dit laatste bleek vrij fataal toen begin oktober het weer drastisch omsloeg. Wegen veranderde in modderbaden en hierdoor viel de aanvoer van munitie, voedsel en ander noodzakelijk materieel stil. Toen rond november de wegen weer redelijk begaanbaar waren door de vorst drong de Duitse legerleiding erop aan dat het leger zou moeten terugvallen naar een veilige positie. Deden ze dat niet, dan zou het leger het niet lang meer volhouden. Hitler wilde hier niets van weten en pleitte voor ‘’een laatste krachtinspanning’’ om Moskou in te nemen. De laatste krachtinspanning was een totale mislukking. Het zag er voor Hitler niet goed uit. In het oorspronkelijke plan zou het grootste verkeerspunt van Rusland rond deze tijd in Duitse handen zijn geweest, hierdoor zou de Russische moraal dalen en die van de Duitsers toenemen. Dit was op dat moment totaal niet het geval. De Russische moraal was nog steeds goed door het stilhouden van informatie over de opmars van het Duitse leger voor het Russische volk. Drie weken na deze aanval waren de Duitsers weer binnen bereik van het Rode Leger en werden genadeloos neergemaaid. Deze keer was de nederlaag zo groot dat de Wehrmacht nooit meer dezelfde mankracht zou hebben. Hitler had hierna de taak als opperbevelhebber aan het Oostblok compleet op zich genomen. Dit leidde tot grote strategische fouten, aangezien Hitler kennelijk geen geboren generaal was. Een groot keerpunt in de oorlog was de slag bij Stalingrad op 2 februari 1943, vanaf dat moment waren het de Russen die weer flink terrein wonnen van de Duitsers. Op die dag werden 300.000 Duitse soldaten gedwongen zich over te geven.
-(Het aanvalsplan “Barbarossa)
-
-Tussen de poging van Napoleon en die van Hitler zijn dus veel parallellen te vinden. Ze hadden beiden in eerste instantie een vredesverdrag dat door hen werd geschonden. Ook boekte beide in eerste instantie grote vooruitgang en veroverde in rap tempo steeds meer gebied. Deze snelle vooruitgang hielp mee aan het gevoel van onoverwinnelijkheid dat beide leiders hadden nadat ze beide grote delen van West-Europa hadden veroverd. Hierdoor werd een verdere tocht richting Moskou onderschat, met grote gevolgen. Ten eerste dachten ze beide dat ze grotere voorraden hadden dan ze later bleken te hebben, dit kwam met name door de tactiek van Rusland, waarbij alle bruikbare materialen en voorraden verbrand werden en dus onbruikbaar gemaakt. Omdat ze voorraadtekort hadden, werden ze gedwongen tot het verder intrekken van Russisch grondgebied met het oog op de voorraden die ze hopelijk zouden vinden. Hiernaast bood het Oost-Europese landschap niet veel steun aan de oprukkende legers, er liepen rivieren dwars door het uitgebreide achterland en grote gebieden werden overheerst door moerasbossen die ook makkelijk af te sluiten waren door de enkele wegen daar doorheen af te sluiten en doorgang bijna onmogelijk maakte. Napoleon was net op tijd terug voor de winter, maar Hitler niet. Napoleons tocht liep begin december ten einde en kostte hem het overgrote deel van zijn manschappen. Hitler heeft daarentegen de hele winter in Rusland doorgebracht. Ook Hitler verloor kostbare hoeveelheden manschappen. Beide legers zouden later niet meer dezelfde aantallen in manschappen kunnen opbouwen.
+Napoleon Bonaparte werd geboren in 1769 op het Franse eiland Corsica.
+Hij komt uit een Italiaans gezin en groeide niet makkelijk op.
+Ondanks dat zijn familie het niet breed had, kon Napoleon, op negenjarige leeftijd, een beurs in Frankrijk krijgen.
+Hij begon met frans leren bij een monniken college in Autun
+Op vijftienjarige leeftijd vervolgde hij zijn studie in Parijs bij de ecole militaire (militaire school)
+Napoleon wist zich in het leger op te werken en werd in 1796 benoemd tot generaal van het Franse leger in Italië. Hij kreeg deze positie na het succesvol neerslaan van een opstand van de contrarevolutionaire. 
+Hij had op dat moment nog niet heel veel aanzien, aangezien hij zijn leger kreeg met enorme tekorten aan materieel en voedsel.
+Kanonnen had hij niet en zijn cavalerie zat zonder paarden.
+Heel veel succes behaalde Napoleon hier niet, omdat hij vrede met Oostenrijk moest sluiten. In ruil voor een staakt het vuren in Italië en geen verdere rooftochten kreeg Frankrijk de Zuidelijke Nederlanden, wat eilanden en het graafschap Falkenstein(wat nu Beieren is).
+Met iets meer aanzien dan eerst was napoleon in 1798 en 1799 op campagne in Egypte
+Hij had een gerucht de wereld in geholpen dat de Fransen Ierland zouden invallen en hierdoor was de complete engelse vloot op pad gestuurd om dat te voorkomen.
+Hierdoor kon Napoleon veilig naar Egypte varen met zijn 34.000 soldaten.
+Ook deze veldtochten waren geen groot succes en Napoleon keerde eind 1799 terug naar Frankrijk. In Frankrijk heerste in die tijd grote onrust en Napoleon wachtte niet lang voordat hij naast militaire macht ook de politieke macht naar zich toe trok.
+Toen Napoleon in 1799 met de staatsgreep 18 van Brumaire de macht greep, hervormde hij ook meteen de regering. De directoire, het toentertijd vijfkoppige bestuur, werd vervangen door een consulaat met drie consuls.
+Met Bonaparte als eerste consul werden al zijn politieke tegenstanders al vroeg tegengehouden.  
+Een van die tegenstanders was een Franse prins die zich schuilhield in België.
+Dit was het eerste grote figuur dat Napoleon had laten vermoorden in zijn tocht naar macht.
+Deze tocht naar macht bereikte zijn hoogtepunt in 1804 toen Napoleon Bonaparte werd benoemd tot keizer der Fransen.
 
  
