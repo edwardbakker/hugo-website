@@ -1,7 +1,7 @@
 ---
-date: 2017-04-16T10:58:08-04:00
+date: 2023-02-13T10:58:08-04:00
 description: ""
-featured_image: ""
+featured_image: "images/H4-Header.jpg"
 tags: []
 title: "Op welke manier heeft Hitler zoveel van Europa veroverd?"
 ---

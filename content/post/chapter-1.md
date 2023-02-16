@@ -1,7 +1,7 @@
 ---
-date: 2017-04-20T10:58:08-04:00
+date: 2023-02-16T10:58:08-04:00
 description: ""
-featured_image: "images/hitler-header.jpg"
+featured_image: "images/H1-Header.jpg"
 tags: []
 title: "Hoe machtig was Napoleon aan het begin van zijn poging tot het veroveren van Europa, hoe heeft hij die macht verkregen en heeft Napoleons afkomst hem hierbij geholpen/tegengewerkt?"
 ---

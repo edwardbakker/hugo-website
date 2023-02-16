@@ -1,7 +1,7 @@
 ---
-date: 2017-04-12T10:58:08-04:00
+date: 2023-02-09T10:58:08-04:00
 description: ""
-featured_image: "images/H5-header.jpg"
+featured_image: "images/H8-header.jpg"
 tags: []
 title: "Hoe verhouden Napoleon en zijn troepen zich tegenover het Nederlandse volk en in hoeverre is dit verschillend met de verhouding vanuit Hitler en zijn troepen?"
 author: "Emily"

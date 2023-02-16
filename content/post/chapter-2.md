@@ -1,5 +1,5 @@
 ---
-date: 2017-04-19T10:58:08-04:00
+date: 2023-02-15T10:58:08-04:00
 description: ""
 featured_image: "images/hitler-header.jpg"
 tags: []

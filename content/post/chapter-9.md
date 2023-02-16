@@ -1,7 +1,7 @@
 ---
-date: 2017-04-11T10:58:08-04:00
+date: 2023-02-08T10:58:08-04:00
 description: ""
-featured_image: "images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "images/H9-Header.jpg"
 tags: []
 title: "Wat zijn de positieve en/of negatieve gevolgen van de bezetting van Napoleon en Hitler voor Nederland?"
 author: "Emily"

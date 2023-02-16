@@ -1,7 +1,7 @@
 ---
-date: 2017-04-18T10:58:08-04:00
+date: 2023-02-14T10:58:08-04:00
 description: ""
-featured_image: "images/hitler-header.jpg"
+featured_image: "images/H3-Header.jpg"
 tags: []
 title: "Op welke manier heeft Napoleon zoveel van Europa veroverd?"
 ---
