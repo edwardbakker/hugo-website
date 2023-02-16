@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H7-Header.jpg"
 tags: []
 title: "Hoe verhoudt de bevolking van Nederland zich tegenover Napoleon en zijn troepen en in hoeverre is dit verschillend met Hitler en de Duitse troepen?"
+author: "Joey"
 ---
 
 #### Napoleon Bonaparte.  

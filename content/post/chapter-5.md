@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H5-Header - kopie.jpg"
 tags: []
 title: "In hoeverre is er een verschil of overeenkomst te vinden tussen de materiele en militaire middelen van beide partijen?"
+author: "Dylan & Joey"
 ---
 **Napoleon**   
 De Grande Armée was de naam van Napoleons leger. Dit leger werd opgesteld aan het begin van de 19de eeuw en verwijst naar het complete leger van Frankrijk in die tijd. Het leger bereikte zijn maximale grootte in 1812, toen Napoleon op het punt stond om Rusland in te vallen. In dat jaar bestond de Grande Armée uit 600.000 soldaten. Het leger kon deze grote aantallen inzetten door het invoeren van de dienstplicht in Frankrijk en de geannexeerde gebieden.

@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H3-Header.jpg"
 tags: []
 title: "Op welke manier heeft Napoleon zoveel van Europa veroverd?"
+author: "Dylan"
 ---
 
 **Hoeveel van Europa heeft Napoleon veroverd?**  

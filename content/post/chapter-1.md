@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H1-Header.jpg"
 tags: []
 title: "Hoe machtig was Napoleon aan het begin van zijn poging tot het veroveren van Europa, hoe heeft hij die macht verkregen en heeft Napoleons afkomst hem hierbij geholpen/tegengewerkt?"
+author: "Dylan"
 ---
 Napoleon kreeg zijn macht ten gevolge van de Franse revolutie (1789-1799)
 Voor deze revolutie heerste het ancien régime in Frankrijk, een rijke groep elite die door middel van het leenstelsel hun macht verdeelde en over Frankrijk heerste.

@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H4-Header.jpg"
 tags: []
 title: "Op welke manier heeft Hitler zoveel van Europa veroverd?"
+author: "Joey"
 ---
 **Hoeveel en tot hoever heeft Hitler veroverd?**  
 In de periode voor de Tweede Wereldoorlog is Duitsland gekrompen. Dit kwam doordat andere landen, zoals Frankrijk, delen van Duitsland hadden ingenomen. Nog voordat Duitsland andere landen aanviel was het eerst hun doel om deze verloren stukken land terug te veroveren. Dit begon bij het Saarland dat na het Verdrag van Versailles werd ingenomen door Frankrijk. In 1935 werd er een volksstemming gehouden om te bepalen of het Saarland van Frankrijk zou blijven of als het zich weer zou voegen bij Duitsland. Uit deze stemming bleek dat maar liefst 90,7 procent van de inwoners binnen het Saarland zich weer bij Duitsland wilde voegen. Dit gebeurde dan ook. De volgende terugname van Duitsland was het Rijnland. Het terugveroveren van het Rijnland kostte de Duitsers weinig moeite. Een aantal Duitse soldaten marcheerde het stuk land in, zonder enig verzet van Franse of Engelse troepen die het gebied hiervoor in beslag hadden genomen.. Dit had allemaal te maken met de appeasementpolitiek van deze landen. Een aantal jaar later viel Hitler het Sudetenland binnen. Dit stuk land bestond vooral uit Oostenrijk en delen van Slowakije (zie de kaart hieronder).  

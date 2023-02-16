@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H6-Header.jpg"
 tags: []
 title: "Welke economische, politieke en sociale beleidsvormen/ tactieken werden er door Napoleon en Hitler gebruikt tijdens de oorlog?"
+author: "Dylan & Emily"
 ---
 **Welke macht had Napoleon?**  
 Napoleon had vanaf het moment dat hij zichzelf als keizer kroonde alle macht van Frankrijk naar zich toe getrokken. Hij kwam op die troon te zitten na vijf jaar eerste consul te zijn geweest en in principe had hij vanaf dat moment al alle touwtjes in handen.

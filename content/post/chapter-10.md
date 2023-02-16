@@ -4,6 +4,7 @@ description: ""
 featured_image: "images/H10-Header.jpg"
 tags: []
 title: "In hoeverre is de aanval van Napoleon op Rusland te vergelijken met de veroveringspoging van Hitler op Rusland?"
+author: "Dylan"
 ---
 
 Zowel Napoleon als Hitler heeft geprobeerd Rusland te veroveren en beiden zijn daarin gefaald. De twee veroveraars waren tot het moment dat zij Rusland aanvielen niet te stoppen, maar toch heeft Rusland beide gestopt. Hoe hebben Napoleon en Hitler dat geprobeerd en hoe heeft Rusland ze tegengehouden en op welke manier? 

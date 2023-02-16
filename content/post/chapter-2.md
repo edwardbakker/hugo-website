@@ -4,7 +4,7 @@ description: ""
 featured_image: "images/hitler-header.jpg"
 tags: []
 title: "In hoeverre heeft de achtergrond en de macht van Hitler voor zijn staatsgreep invloed gehad op het veroveren van de macht in Duitsland?"
-author: "Edward"
+author: "Joey"
 ---
 
 Adolf Hitler, hij was een van de machtigste mannen ooit. Niet alleen ten tijde van de 2e wereldoorlog, maar ook nu nog wordt hij gezien als 1 van de machtigste ooit. Maar hoe is hij zo machtig geworden en waar komt deze man eigenlijk vandaan? En in hoeverre heeft zijn politieke en/of sociale positie voordat hij de leider van het machtige nazirijk was invloed gehad op het veroveren van de macht in Duitsland. Om deze vragen te beantwoorden wordt er eerst dieper ingegaan op de geschiedenis van Adolf Hitler.
