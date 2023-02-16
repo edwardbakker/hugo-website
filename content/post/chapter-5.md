@@ -1,7 +1,7 @@
 ---
 date: 2023-02-12T10:58:08-04:00
 description: ""
-featured_image: "images/H5-Header.jpg"
+featured_image: "images/H5-Header - kopie.jpg"
 tags: []
 title: "In hoeverre is er een verschil of overeenkomst te vinden tussen de materiele en militaire middelen van beide partijen?"
 ---
